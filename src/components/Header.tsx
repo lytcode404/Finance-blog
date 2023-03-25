@@ -113,7 +113,7 @@ export default function Header() {
                   Money follows passion and purpose.
                 </h2>
                 <p className="text-base text-gray-700 md:text-lg">
-                  Money can't buy happiness, but it's a lot easier to cry in a
+                  Money cant buy happiness, but its a lot easier to cry in a
                   Mercedes than on a bicycle.
                 </p>
               </div>
